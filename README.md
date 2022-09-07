@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://imgs.search.brave.com/eDvmdZXHBIHvKCsh1eFfcDtt1QDOphDCYs_mLz0Ryw8/rs:fit:1088:437:1/g:ce/aHR0cHM6Ly9kZWFs/cy5oYXJsZXlveGZv/cmQuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIwLzA3L3Ro/ZS11bHRpbWF0ZS1j/b2RpbmctYW5kLWFu/aW1hdGlvbi1idW5k/bGUuanBn))]
 <h1 align="center">Hi 👋, I'm Atanu Kumar Dey</h1>
 <h3 align="center">A fronted developer</h3>
 <img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://videohive.img.customer.envatousercontent.com/files/168466839/590-Programming_Web_Code.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=9cd88f197820c7d767d3b77288b4f170)">
