@@ -1,7 +1,7 @@
 [![MasterHead](https://deals.harleyoxford.com/wp-content/uploads/2020/07/the-ultimate-coding-and-animation-bundle.jpg)]
 <h1 align="center">Hi 👋, I'm Atanu Kumar Dey</h1>
 <h3 align="center">A fronted developer</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://videohive.img.customer.envatousercontent.com/files/168466839/590-Programming_Web_Code.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=9cd88f197820c7d767d3b77288b4f170)">
+<img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://videohive.img.customer.envatousercontent.com/files/168466839/590-Programming_Web_Code.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=9cd88f197820c7d767d3b77288b4f170)](https://imgs.search.brave.com/rvUj-4w4gORSmRBVP9aVxDsqz3dWyCtEoOS5KmitwfM/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/bWF4LzE2MDAvMCpD/LWNQUDlEMk1JeWVl/eEFULmdpZg.gif)">
 
 - 🔭 I’m currently working on **mern**
 
