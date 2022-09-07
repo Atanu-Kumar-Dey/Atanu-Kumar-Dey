@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atanu Kumar Dey</h1>
 <h3 align="center">A fronted developer</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://imgs.search.brave.com/gkpEBoVEsq8kfJySKTK1i8FTAhnzvypO__XtwicceCc/rs:fit:500:281:1/g:ce/aHR0cHM6Ly9tZWRp/YS5naXBoeS5jb20v/bWVkaWEvMjZ0bjMz/YWlUaTFqa2w2SDYv/Z2lwaHkuZ2lm.gif)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **mern**
 
