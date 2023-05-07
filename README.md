@@ -5,7 +5,7 @@
 <br>
 
 ##    <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>  **About me**
-<picture> <img align="right" src="https://avatars.githubusercontent.com/u/26513717?v=4" width = 250px></picture>
+<picture> <img align="right" src="" width = 250px></picture>
 <br>
 - A passionate __Frontend__ and __MERN__ Developer
 - Currently learning __AWS__, & __GoLang__.
