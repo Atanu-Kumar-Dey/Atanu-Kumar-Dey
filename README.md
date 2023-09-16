@@ -11,7 +11,7 @@
 - Currently learning __AWS__, & __GoLang__.
 - Working on Personal website.
 - In free time I used to design mobile apps in __Figma__
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1aXPR22gYWsoXMzklzsLX4i0HaKber6Jy/view?usp=sharing)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1AEbstRvqM2RCwU42p8XgwEovKqbDwyCI/view)
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
