@@ -97,6 +97,8 @@
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Atanu-Kumar-Dey&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Atanu-Kumar-Dey" height="192px"/>
+	   <br/>
+	  <img src="https://streak-stats.demolab.com?user=Atanu-Kumar-Dey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
